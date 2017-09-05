@@ -4,7 +4,8 @@
   "description": "Trying out NodeJS.",
   "main": "app.js",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "pug": "^2.0.0-rc.3"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
